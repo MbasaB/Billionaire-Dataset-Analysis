@@ -1,16 +1,16 @@
-# 💰 Billionaires Dataset Analysis
+# Billionaires Dataset Analysis
 
 An Excel-based data analysis project exploring the world's billionaires — their wealth, industries, countries, and demographics.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This guided project involved downloading a real-world billionaires dataset, cleaning it, and analyzing it using Microsoft Excel. The goal was to uncover patterns and insights about the world's wealthiest individuals.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** Public billionaires dataset
 - **Records:** 475+ billionaires
@@ -18,9 +18,9 @@ This guided project involved downloading a real-world billionaires dataset, clea
 
 ---
 
-## 🛠️ What I Did
+## What I Did
 
-### 1. 🧹 Data Cleaning
+### 1. Data Cleaning
 - Removed duplicates and handled missing values
 - Calculated age from birth date
 - Formatted date columns correctly
@@ -48,7 +48,7 @@ This guided project involved downloading a real-world billionaires dataset, clea
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -58,7 +58,7 @@ This guided project involved downloading a real-world billionaires dataset, clea
 
 ---
 
-## 📁 File Structure
+## File Structure
 ```
 📦 billionaires-analysis
  ┣ 📊 Data_analysis.xlsx     # Main workbook with all sheets
@@ -67,7 +67,7 @@ This guided project involved downloading a real-world billionaires dataset, clea
 
 ---
 
-## 🚀 How to View
+## How to View
 
 1. Download the `.xlsx` file
 2. Open in Microsoft Excel
