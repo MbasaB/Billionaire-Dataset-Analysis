@@ -1,6 +1,8 @@
 # Billionaires Dataset Analysis
 
-An Excel-based data analysis project exploring the world's billionaires — their wealth, industries, countries, and demographics.
+An Excel-based data analysis project exploring a dataset of billionaires, focusing on wealth, industries, countries, and demographics. **This is a historical dataset analysis, not a live ranking of current fortunes.**
+
+**[Open the Excel workbook](<Data anaylysis(1).xlsx>)**
 
 ---
 
@@ -40,7 +42,7 @@ This guided project involved downloading a real-world billionaires dataset, clea
 - **Self-Made vs Inherited** – proportion of self-made billionaires
 
 ### 4. 💡 Key Insights
-- Elon Musk ranked #1 with a net worth of $180,000M
+- In the dataset used for this exercise, Elon Musk ranked #1 with a recorded net worth of $180,000M; this is not a current valuation
 - The majority of billionaires are self-made
 - Technology and Fashion & Retail are among the top industries
 - The United States has the highest concentration of billionaires
@@ -69,7 +71,7 @@ This guided project involved downloading a real-world billionaires dataset, clea
 
 ## How to View
 
-1. Download the `.xlsx` file
+1. Download [the actual workbook](<Data anaylysis(1).xlsx>)
 2. Open in Microsoft Excel
 3. Navigate through the sheets:
    - **Data** – cleaned dataset
